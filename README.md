@@ -1,1 +1,1 @@
-# Applications-od-Data-Mining
+# Applications-of-Data-Mining
